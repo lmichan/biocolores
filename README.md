@@ -11,6 +11,13 @@ Por eso me he dado a la tarea de integrar y agregar los eventos interesantes par
 Los tema de interes son los mismos de @infovestigación
 Habilidades digitales, competencias informacionales, investigación digital, Metaciencia, Infodemia, etc...
 
+
+Buscando antecedentes sobre calendarios de eventos académicos encontré este que me pareció el más robusto, completo y amigable así que lo usaré como inspiración
+https://openresearchcalendar.github.io/
+
+
+
+
 c_5ttf9j3d6erqtojip7ton0tf18@group.calendar.google.com
 
 https://calendar.google.com/calendar/embed?src=c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com&ctz=America%2FMexico_City
