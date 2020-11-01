@@ -1,4 +1,4 @@
-# calendario-infovestigacion
+### calendario-infovestigacion
 
 Organizar información implica planificar el tiempo
 
@@ -12,12 +12,6 @@ Los tema de interes son los mismos de @infovestigación
 Habilidades digitales, competencias informacionales, investigación digital, Metaciencia, Infodemia, etc...
 
 
-Buscando antecedentes sobre calendarios de eventos académicos encontré este que me pareció el más robusto, completo y amigable así que lo usaré como inspiración
-https://openresearchcalendar.github.io/ (1)
-
-
-
-
 c_5ttf9j3d6erqtojip7ton0tf18@group.calendar.google.com
 
 https://calendar.google.com/calendar/embed?src=c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com&ctz=America%2FMexico_City
@@ -27,6 +21,3 @@ https://calendar.google.com/calendar/ical/c_5ttf9j3d6erqtojip7ton0tf18%40group.c
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com&ctz=America%2FMexico_City" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
-Referencias
-1. Cassandra D Gould van Praag, Bradley J Kennedy, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar. Zenodo. http://doi.org/10.5281/zenodo.4109949
