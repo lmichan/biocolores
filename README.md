@@ -1,4 +1,4 @@
-### calendario-infovestigacion
+### El Calendario @infovestigacion
 
 Organizar información implica planificar el tiempo
 
@@ -10,6 +10,8 @@ Por eso me he dado a la tarea de integrar y agregar los eventos interesantes par
 
 Los tema de interes son los mismos de @infovestigación
 Habilidades digitales, competencias informacionales, investigación digital, Metaciencia, Infodemia, etc...
+
+Este calendario tiene como proposito organizar todos los eventos que pueden ser de interes para mi grupo de trabajo, para los cursos que imparto y para los materiales que realizo, pero puede servir a cualquiera para ver los eventos por día, semana, mes y copialos a su agenda.
 
 
 c_5ttf9j3d6erqtojip7ton0tf18@group.calendar.google.com
