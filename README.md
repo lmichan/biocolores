@@ -14,19 +14,17 @@ Habilidades digitales, competencias informacionales, investigación digital, Met
 Este calendario tiene como proposito organizar todos los eventos que pueden ser de interes para mi grupo de trabajo, para los cursos que imparto y para los materiales que realizo, pero puede servir a cualquiera para ver los eventos por día, semana, mes y copialos a su agenda.
 
 
+Integrar calendario
 ID del calendario
-c_5ttf9j3d6erqtojip7ton0tf18@group.calendar.google.com
-
-URL pública
-https://calendar.google.com/calendar/embed?src=c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com&ctz=America%2FMexico_City
+infovestigacion@gmail.com
+https://calendar.google.com/calendar/embed?src=infovestigacion%40gmail.com&ctz=America%2FMexico_City
 Utiliza esta URL para acceder a este calendario desde un navegador web.
-
-
-Dirección pública en formato iCal
-https://calendar.google.com/calendar/ical/c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com/public/basic.ics
+<iframe src="https://calendar.google.com/calendar/embed?src=infovestigacion%40gmail.com&ctz=America%2FMexico_City" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Utiliza este código para incorporar este calendario en una página web.
+Puedes personalizar el código o incorporar varios calendarios.
+https://calendar.google.com/calendar/ical/infovestigacion%40gmail.com/public/basic.ics
 Utiliza esta dirección para acceder a este calendario desde otras apps.
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FMexico_City&amp;src=Y181dHRmOWozZDZlcnF0b2ppcDd0b24wdGYxOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%2300bcb9&amp;title=%40Infovestigacion&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_5ttf9j3d6erqtojip7ton0tf18%40group.calendar.google.com&ctz=America%2FMexico_City" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+https://calendar.google.com/calendar/ical/infovestigacion%40gmail.com/private-dc1f42148f57775ed9f089af62d37f9b/basic.ics
+Utiliza esta dirección para acceder a este calendario desde otras apps sin hacerlo público.
+Advertencia: Comparte esta dirección solo con aquellas personas en quienes confíes para que vean todos los detalles de los eventos de este calendario.
+Puedes restablecer esta dirección y hacer que la actual no sea válida.
