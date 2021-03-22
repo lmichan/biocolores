@@ -12,16 +12,17 @@ En mi [perfil de Wikipedía](https://es.wikipedia.org/wiki/Usuaria:Lmichan) hay 
 
 Subo imágenes y videos sobre Biología del color
 
-+Wikipedia
+*Wikipedia
 
 
 En Wikipedía agrego información en las entradas sobre color en los seres vivos, relacionadas y afines
 
-Wikidata
+*Wikidata
 
 
 Curo información sobre las entidades de investigación de biología del color como:
-Artículos
+Artículos (Biología del color, color en los seres vivos, color estructural, pigmentos y azul)
 Autores
 Taxones
-compuestos químicos
+Colores (azul e iridiscente)
+Compuestos químicos (pigmentos)
