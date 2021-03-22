@@ -12,7 +12,7 @@ En mi [perfil de Wikipedía](https://es.wikipedia.org/wiki/Usuaria:Lmichan) hay 
 
 Subo imágenes y videos sobre Biología del color
 
-Wikipedia
++Wikipedia
 
 
 En Wikipedía agrego información en las entradas sobre color en los seres vivos, relacionadas y afines
