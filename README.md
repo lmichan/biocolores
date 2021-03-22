@@ -1,6 +1,6 @@
 # Proyecto Biocolores
 
-El proyecto Biocolores es una investigación desarrollada por el laboratorio de Bioinformación en el que realizamos pesquisas digitales para entender el color en los seres vivos a través de la información digital y herramientas informáticas
+El proyecto Biocolores es una investigación desarrollada por el laboratorio de Bioinformación en el que realizamos pesquisas digitales para entender el color en los seres vivos a través de la información digital y herramientas informáticas. El [Hub de Biocolores](https://sites.google.com/a/ciencias.unam.mx/layla-michan/hub-biocolores) que reune todos los recursos y colecciones del proyecto es de acceso abierto.
 
 ## **Manejo de información**
 
