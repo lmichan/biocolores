@@ -7,6 +7,6 @@ El proyecto Biocolores es una investigación desarrollada por el laboratorio de 
 Uno de los recursos que nos interesa utilizar en todo su potencial son los que ofrece la fundación Wikimedia para ciencias biológicas, com wikipedia, wikidata y wikispecies.
 En mi perfil de Wikipedía hay alguna información general que ampliaré en este docuemento.
 
-###Wikipedia
+Wikipedia
 
-###Wikidata
+Wikidata
