@@ -25,7 +25,7 @@ Subo imágenes y videos sobre Biología del color
 En Wikipedía agrego información en las entradas sobre color en los seres vivos, relacionadas y afines
 
 ### **Wikidata**
-
+Presentación de [Biocolores Wikidata](https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/edit?usp=sharing)
 
 Curo información sobre las entidades de investigación de biología del color como:
 
