@@ -8,12 +8,18 @@ Uno de los recursos que nos interesa utilizar en todo su potencial son los que o
 En mi [perfil de Wikipedía](https://es.wikipedia.org/wiki/Usuaria:Lmichan) hay alguna información general que ampliaré en este docuemento.
 
 Wikimedia commons
+
+
 Subo imágenes y videos sobre Biología del color
 
 Wikipedia
+
+
 En Wikipedía agrego información en las entradas sobre color en los seres vivos, relacionadas y afines
 
 Wikidata
+
+
 Curo información sobre las entidades de investigación de biología del color como:
 Artículos
 Autores
