@@ -50,7 +50,10 @@ Autores
 Taxones
 
 
-Colores (azul e iridiscente)
+Colores (azul, iridiscente, bioluminiscente, fosforescente)
 
 
 Compuestos químicos (pigmentos)
+
+
+Parte del color
